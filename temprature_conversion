@@ -1,0 +1,7 @@
+if you want to convert the celsius temprature into farenheit by  using of python program.you can simply follow this program.
+declare a variable celsius_temprature and assign a temprature in celsius and convert the temprature to fahrenhiet  using the formula F =(C*1.8)+32
+print the orignal Celsius tempratrueand the converted Fahrenhiet temprature.
+lets run the program.
+celsius_temprature = 40C
+fahrenhiet=(celsius_temprature*1.8)+32
+print(celsius_temprature and fahrenhiet)
